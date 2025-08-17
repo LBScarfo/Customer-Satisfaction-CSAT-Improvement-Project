@@ -142,7 +142,7 @@ Some columns were intentionally excluded due to irrelevance to the analysis or e
 The first visualization explored CSAT against agent tenure: 
 
 <div align="center">
-  <img src="screenshots/JobTenure_csat.png" alt="CSAT by Job Tenure" width="400"/>
+  <img src="screenshots/JobTenure_csat.png" alt="CSAT by Job Tenure" width="300"/>
 </div>
 
 **Insight:**
@@ -156,7 +156,7 @@ The first visualization explored CSAT against agent tenure:
 To explore the effect of team composition, I examined team-level CSAT scores along with the distribution of agents’ tenure within each team. Refer to the visualization below:
 
 <div align="center">
-  <img src="screenshots/Team_csat_tenure.png" alt="Team CSAT and Tenure Composition" width="600"/>
+  <img src="screenshots/Team_csat_tenure.png" alt="Team CSAT and Tenure Composition" width="900"/>
 </div>
 
 As we can observe from the visualization above:  
@@ -177,7 +177,7 @@ As we can observe from the visualization above:
 The following bar graph represents the average CSAT score for each category:
 
 <div align="center">
-  <img src="screenshots/Category_csat.png" alt="CSAT by Category" width="600"/>
+  <img src="screenshots/Category_csat.png" alt="CSAT by Category" width="900"/>
 </div>
 
 As this visualization highlights, the **Cancellation, Order Related, Others, and Refund Related** categories have a lower-than-average CSAT score. A deeper analysis of these categories is necessary to identify key areas for improvement.  
@@ -189,7 +189,7 @@ To pinpoint specific opportunities, I created two additional visualizations.
 The bar graph below shows the CSAT average for the four categories previously mentioned, with each bar segmented by its contributing subcategories. To focus on subcategories with a higher impact, I removed any representing less than 3% of their respective category:
 
 <div align="center">
-  <img src="screenshots/Subcategories_csat.png" alt="CSAT by Subcategory" width="600"/>
+  <img src="screenshots/Subcategories_csat.png" alt="CSAT by Subcategory" width="800"/>
 </div>
 
 ### Customer Request Categories Overview
@@ -197,7 +197,7 @@ The bar graph below shows the CSAT average for the four categories previously me
 This visualization establishes the prevalence of each category based on the total volume of customer requests. Categories with a very small sample size (less than 1% of total requests) were excluded to focus the analysis on the most impactful areas:
 
 <div align="center">
-  <img src="screenshots/categories_overview.png" alt="Customer Request Categories Overview" width="600"/>
+  <img src="screenshots/categories_overview.png" alt="Customer Request Categories Overview" width="800"/>
 </div>
 
 Although the **Others** and **Cancellation** categories display a low average CSAT, they each represent less than 1% of total requests. Therefore, they should not be the primary focus of improvement at this time.  
