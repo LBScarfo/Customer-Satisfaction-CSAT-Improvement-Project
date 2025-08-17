@@ -1,4 +1,4 @@
-# Customer-Satisfaction-Improvement-Project
+# Customer Satisfaction Improvement Project
 
 **Author:** Lucrezia Biancamaria Scarfo  
 
