@@ -142,7 +142,7 @@ Some columns were intentionally excluded due to irrelevance to the analysis or e
 The first visualization explored CSAT against agent tenure: 
 
 <div align="center">
-  <img src="screenshots/JobTenure_csat.png" alt="CSAT by Job Tenure" width="600"/>
+  <img src="screenshots/JobTenure_csat.png" alt="CSAT by Job Tenure" width="400"/>
 </div>
 
 **Insight:**
@@ -156,7 +156,7 @@ The first visualization explored CSAT against agent tenure:
 To explore the effect of team composition, I examined team-level CSAT scores along with the distribution of agents’ tenure within each team. Refer to the visualization below:
 
 <div align="center">
-  <img src="team_csat_tenure.png" alt="Team CSAT and Tenure Composition" width="600"/>
+  <img src="screenshots/team_csat_tenure.png" alt="Team CSAT and Tenure Composition" width="600"/>
 </div>
 
 As we can observe from the visualization above:  
@@ -177,7 +177,7 @@ As we can observe from the visualization above:
 The following bar graph represents the average CSAT score for each category:
 
 <div align="center">
-  <img src="category_csat.png" alt="CSAT by Category" width="600"/>
+  <img src="screenshots/category_csat.png" alt="CSAT by Category" width="600"/>
 </div>
 
 As this visualization highlights, the **Cancellation, Order Related, Others, and Refund Related** categories have a lower-than-average CSAT score. A deeper analysis of these categories is necessary to identify key areas for improvement.  
@@ -189,7 +189,7 @@ To pinpoint specific opportunities, I created two additional visualizations.
 The bar graph below shows the CSAT average for the four categories previously mentioned, with each bar segmented by its contributing subcategories. To focus on subcategories with a higher impact, I removed any representing less than 3% of their respective category:
 
 <div align="center">
-  <img src="subcategories_csat.png" alt="CSAT by Subcategory" width="600"/>
+  <img src="screenshots/subcategories_csat.png" alt="CSAT by Subcategory" width="600"/>
 </div>
 
 ### Customer Request Categories Overview
@@ -197,7 +197,7 @@ The bar graph below shows the CSAT average for the four categories previously me
 This visualization establishes the prevalence of each category based on the total volume of customer requests. Categories with a very small sample size (less than 1% of total requests) were excluded to focus the analysis on the most impactful areas:
 
 <div align="center">
-  <img src="categories_overview.png" alt="Customer Request Categories Overview" width="600"/>
+  <img src="screenshots/categories_overview.png" alt="Customer Request Categories Overview" width="600"/>
 </div>
 
 Although the **Others** and **Cancellation** categories display a low average CSAT, they each represent less than 1% of total requests. Therefore, they should not be the primary focus of improvement at this time.  
@@ -241,7 +241,7 @@ To this end, I have created a series of dashboards for supervisors and managers 
 This dashboard empowers supervisors and managers to quickly assess an agent’s performance within the context of their team. 
 
 <div align="center">
-  <img src="agent_team_csat_db.png" alt="Agent-Team CSAT Dashboard" width="700"/>
+  <img src="screenshots/agent_team_csat_db.png" alt="Agent-Team CSAT Dashboard" width="700"/>
 </div>
 
 - The **'Select Agent'** menu on the right allows users to compare a single agent's CSAT with their team's average.  
@@ -256,7 +256,7 @@ This dashboard empowers supervisors and managers to quickly assess an agent’s 
 The goal of this dashboard is to provide context behind the numbers. As our analysis shows that different categories and subcategories can impact CSAT, this tool helps determine if an agent's performance is influenced by the types of requests they handle and other variables. 
 
 <div align="center">
-  <img src="agent_performance_deepdive_db.png" alt="Agent Performance Deep Dive Dashboard" width="700"/>
+  <img src="screenshots/agent_performance_deepdive_db.png" alt="Agent Performance Deep Dive Dashboard" width="700"/>
 </div>
 
 - On the top left, a filter allows users to select an agent. The bar charts below display their total contacts, segmented by category and subcategory.  
@@ -270,7 +270,7 @@ Using this dashboard, supervisors can determine if an agent's CSAT score is due 
 This dashboard was designed to help supervisors find and connect agents for peer-to-peer support. It facilitates shadowing and expertise-sharing sessions.
 
 <div align="center">
-  <img src="agent_support_db.png" alt="Agent Support Dashboard" width="700"/>
+  <img src="screenshots/agent_support_db.png" alt="Agent Support Dashboard" width="700"/>
 </div>
 
 The dashboard is divided into two sections:  
@@ -285,7 +285,7 @@ The dashboard is divided into two sections:
 This dashboard was created for managers to monitor the average CSAT of all teams.
 
 <div align="center">
-  <img src="supervisor_db.png" alt="Supervisor Dashboard" width="700"/>
+  <img src="screenshots/supervisor_db.png" alt="Supervisor Dashboard" width="700"/>
 </div>
 
 - The color-coded bar chart makes it easy to quickly identify teams performing below the company's CSAT average.  
