@@ -142,7 +142,7 @@ Some columns were intentionally excluded due to irrelevance to the analysis or e
 The first visualization explored CSAT against agent tenure: 
 
 <div align="center">
-  <img src=screenshots/"JobTenure_csat.png" alt="CSAT by Job Tenure" width="600"/>
+  <img src="screenshots/JobTenure_csat.png" alt="CSAT by Job Tenure" width="600"/>
 </div>
 
 **Insight:**
