@@ -295,6 +295,18 @@ This dashboard was created for managers to monitor the average CSAT of all teams
 
 ---
 
+## Data Validation
+
+After completing the analysis and building dashboards in Tableau, I used MySQL Workbench to perform queries that verify the integrity of the data visible in Tableau. This step ensured that the calculated fields, aggregations, and joins were accurate and that the insights presented are reliable.
+
+---
+
+## SQL Queries
+
+All SQL queries used for data cleaning, calculations, transformations, and data validation are available in the `queries/` folder. Each file is named according to the analysis step it corresponds to, making it easy to follow the workflow.
+
+---
+
 ## Project Summary
 
 This project provides a data-driven analysis to improve Customer Satisfaction (CSAT). Key findings include:  
