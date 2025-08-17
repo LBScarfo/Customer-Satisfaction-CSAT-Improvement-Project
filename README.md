@@ -241,7 +241,7 @@ To this end, I have created a series of dashboards for supervisors and managers 
 This dashboard empowers supervisors and managers to quickly assess an agent’s performance within the context of their team. 
 
 <div align="center">
-  <img src="screenshots/agent_team_csat_db.png" alt="Agent-Team CSAT Dashboard" width="700"/>
+  <img src="screenshots/agent_team_csat_db.png" alt="Agent-Team CSAT Dashboard" width="1000"/>
 </div>
 
 - The **'Select Agent'** menu on the right allows users to compare a single agent's CSAT with their team's average.  
@@ -256,7 +256,7 @@ This dashboard empowers supervisors and managers to quickly assess an agent’s 
 The goal of this dashboard is to provide context behind the numbers. As our analysis shows that different categories and subcategories can impact CSAT, this tool helps determine if an agent's performance is influenced by the types of requests they handle and other variables. 
 
 <div align="center">
-  <img src="screenshots/agent_performance_deepdive_db.png" alt="Agent Performance Deep Dive Dashboard" width="700"/>
+  <img src="screenshots/agent_performance_deepdive_db.png" alt="Agent Performance Deep Dive Dashboard" width="1000"/>
 </div>
 
 - On the top left, a filter allows users to select an agent. The bar charts below display their total contacts, segmented by category and subcategory.  
@@ -270,7 +270,7 @@ Using this dashboard, supervisors can determine if an agent's CSAT score is due 
 This dashboard was designed to help supervisors find and connect agents for peer-to-peer support. It facilitates shadowing and expertise-sharing sessions.
 
 <div align="center">
-  <img src="screenshots/agent_support_db.png" alt="Agent Support Dashboard" width="700"/>
+  <img src="screenshots/agent_support_db.png" alt="Agent Support Dashboard" width="1000"/>
 </div>
 
 The dashboard is divided into two sections:  
@@ -285,7 +285,7 @@ The dashboard is divided into two sections:
 This dashboard was created for managers to monitor the average CSAT of all teams.
 
 <div align="center">
-  <img src="screenshots/supervisor_db.png" alt="Supervisor Dashboard" width="700"/>
+  <img src="screenshots/supervisor_db.png" alt="Supervisor Dashboard" width="1000"/>
 </div>
 
 - The color-coded bar chart makes it easy to quickly identify teams performing below the company's CSAT average.  
