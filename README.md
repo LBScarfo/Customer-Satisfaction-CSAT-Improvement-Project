@@ -18,8 +18,7 @@ The primary goals are:
 
 ### E-Commerce Customer Service Satisfaction  
 - **Description:** Contains CSAT survey responses linked to e-commerce customer service interactions. Includes information such as ticket ID, support category, agent details, and customer satisfaction scores.  
-- **Source:**  
-  [Kaggle Dataset – E-Commerce Customer Service Satisfaction](https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction/data)  
+- **Source:** [Kaggle Dataset – E-Commerce Customer Service Satisfaction](https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction/data)  
 - **Author:** Kaggle user *ddosad*
 
 ---
