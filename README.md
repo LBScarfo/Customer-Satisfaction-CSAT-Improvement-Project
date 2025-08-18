@@ -171,6 +171,20 @@ As we can observe from the visualization above:
 
 ---
 
+## Customer Satisfaction (CSAT) VS Response Time
+
+The following visualization illustrates the relationship between CSAT scores and response time.
+
+<div align="center">
+  <img src="screenshots/csat_responsetime.png" alt="CSAT by Category" width="900"/>
+</div>
+
+The analysis shows a consistent decline in CSAT as response time (the waiting time for customers to receive a response) increases.  
+
+To address this, collaboration with the Planning and Real-Time Analyst teams is recommended to assess whether adjustments to scheduling can reduce response times and, in turn, improve CSAT performance.
+
+---
+
 ## Customer Satisfaction (CSAT) vs. Category (Request Topic)
 
 The following bar graph represents the average CSAT score for each category:
@@ -310,11 +324,13 @@ All SQL queries used for data cleaning, calculations, transformations, and data 
 
 This project provides a data-driven analysis to improve Customer Satisfaction (CSAT). Key findings include:  
 
-- CSAT scores are influenced by agent tenure and team composition.  
+- CSAT scores are influenced by agent tenure and team composition.
+- CSAT declines as response time increases, highlighting the importance of timely responses.  
 - High-volume Order Related category represents the most actionable improvement opportunity.
 
 **Key Recommendations:**  
-- Rebalance teams to optimize agent tenure mix.  
+- Rebalance teams to optimize agent tenure mix.
+- Collaborate with Planning and Real-Time Analyst teams to explore schedule adjustments that could reduce response times and improve CSAT. 
 - Implement targeted actions to improve Order Related CSAT.  
 - Use interactive dashboards to monitor performance, provide assistance, and enable peer support.
 
