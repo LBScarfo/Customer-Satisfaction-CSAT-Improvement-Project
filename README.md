@@ -109,7 +109,7 @@ Some columns were intentionally excluded due to irrelevance to the analysis or e
 
 1. **Calculated Response Time**  
    - Computed the elapsed time between `issue_reported_at` and `issue_responded_at`, measured in minutes.  
-   - Grouped response times into **logical buckets** for readability (e.g., *0–60 min*, *1 hr 1 min–8 hr*, *8 hr 1 min–24 hr*, *1 day 1 min–2 days*).  
+   - Grouped response times into **logical buckets** for readability.  
 
 2. **Tenure Bucket Numeric Mapping (`tenure_bucket_num`)**  
    - Assigned numerical values to tenure categories for sorting and correlation analysis:  
