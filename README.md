@@ -171,7 +171,7 @@ As we can observe from the visualization above:
 
 ---
 
-## Customer Satisfaction (CSAT) VS Response Time
+## Customer Satisfaction (CSAT) vs. Response Time
 
 The following visualization illustrates the relationship between CSAT scores and response time.
 
