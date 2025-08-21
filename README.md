@@ -233,13 +233,13 @@ The **Order Related** category represents 27.25% of all requests. As this is a h
   - If a customer's phone number is available, implement opportunities for them to request real-time updates via phone  
   - I also recommend an additional analysis to check if delays are correlated with specific delivery services or geographic areas, which would allow for more targeted actions  
 
-### Projected Impact on Overall CSAT
+### Impact Analysis
 
-Given that the **Order Related** category represents a significant portion of all customer requests (27.25%), improvements in this area will have a strong positive effect on the overall company CSAT score.  
+Given that the **Order Related** category represents a significant portion of all customer requests (27.25%), improvements in this area will have a strong positive effect on the overall company CSAT score.
 
-Using a weighted average model, we can project this impact. By implementing targeted actions to raise the CSAT for "Order Related" by just 0.2 points (from 4.10 to 4.30), the overall company CSAT is projected to increase from **4.24 to 4.30**.  
+To demonstrate this, we can use a weighted average model to explore a what-if scenario. By raising the CSAT for "Order Related" by just 0.2 points (from 4.10 to 4.30), the overall company CSAT would increase from 4.24 to 4.30.
 
-This analysis confirms that focusing on this specific category is a highly effective strategy for driving a measurable improvement in customer satisfaction.
+This analysis confirms that focusing on this specific category is a highly effective strategy for driving a measurable improvement in customer satisfactio
 
 ---
 
