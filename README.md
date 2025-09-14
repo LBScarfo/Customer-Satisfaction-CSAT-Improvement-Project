@@ -239,7 +239,7 @@ Given that the **Order Related** category represents a significant portion of al
 
 To demonstrate this, we can use a weighted average model to explore a what-if scenario. By raising the CSAT for "Order Related" by just 0.2 points (from 4.10 to 4.30), the overall company CSAT would increase from 4.24 to 4.30.
 
-This analysis confirms that focusing on this specific category is a highly effective strategy for driving a measurable improvement in customer satisfactio
+This analysis confirms that focusing on this specific category is a highly effective strategy for driving a measurable improvement in customer satisfaction
 
 ---
 
