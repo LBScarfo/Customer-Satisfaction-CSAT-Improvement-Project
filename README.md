@@ -10,7 +10,7 @@ This project presents a comprehensive analysis of **Customer Satisfaction (CSAT)
 
 The primary goals are:  
 - **Identify opportunities for CSAT improvement** and uncover the key drivers behind lower satisfaction scores.  
-- **Deliver a practical, interactive Tableau dashboard** that empowers managers and supervisors to monitor performance and provide targeted assistance at both the team and individual agent levels.  
+- **Deliver practical, interactive Tableau dashboards** that empower managers and supervisors to monitor performance and provide targeted assistance at both the team and individual agent levels.  
 
 ---
 
